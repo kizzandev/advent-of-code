@@ -14,96 +14,17 @@ advent-of-code/
 |   |   ├── ...          # Other solutions
 |   |   └── README.md    # Problem details and approach
 |   |
-|   └── adventjs/        # Solutions for AdventJS
-|       ├── day-01.ts    # TypeScript solution
-|       ├── ...          # Other solutions
-|       └── README.md    # Problem details and approach
+|   ├── adventjs/        # Solutions for AdventJS
+|   |   ├── day-01.ts    # TypeScript solution
+|   |   ├── ...          # Other solutions
+|   |   └── README.md    # Problem details and approach
+|   |
+|   └── README.md        # Progress and languages used
 |
 ├── shared-utils/        # Utilities and helper functions
 |
 └── README.md            # This file
 ```
-
----
-
-## Advent of Code
-
-### Languages Used
-
-- **C#**
-- **Python**
-
-### Progress
-
-| Day | Python Solution | C# Solution |
-| --- | --------------- | ----------- |
-| 01  | ❌               | ❌           |
-| 02  | ❌               | ❌           |
-| 03  | ❌               | ❌           |
-| 04  | ❌               | ❌           |
-| 05  | ❌               | ❌           |
-| 06  | ❌               | ❌           |
-| 07  | ❌               | ❌           |
-| 08  | ❌               | ❌           |
-| 09  | ❌               | ❌           |
-| 10  | ❌               | ❌           |
-| 11  | ❌               | ❌           |
-| 12  | ❌               | ❌           |
-| 13  | ❌               | ❌           |
-| 14  | ❌               | ❌           |
-| 15  | ❌               | ❌           |
-| 16  | ❌               | ❌           |
-| 17  | ❌               | ❌           |
-| 18  | ❌               | ❌           |
-| 19  | ❌               | ❌           |
-| 20  | ❌               | ❌           |
-| 21  | ❌               | ❌           |
-| 22  | ❌               | ❌           |
-| 23  | ❌               | ❌           |
-| 24  | ❌               | ❌           |
-| 25  | ❌               | ❌           |
-
----
-
-## AdventJS
-
-AdventJS is a similar challenge designed for JavaScript/TypeScript developers. It focuses on solving puzzles with clean, performant code.
-
-### Language Used
-
-- **TypeScript**
-
-### Progreso
-
-| Day | TypeScript Solution |
-| --- | ------------------- |
-| 01  | ✅                   |
-| 02  | ✅                   |
-| 03  | ✅                   |
-| 04  | ❌                   |
-| 05  | ❌                   |
-| 06  | ❌                   |
-| 07  | ❌                   |
-| 08  | ❌                   |
-| 09  | ❌                   |
-| 10  | ❌                   |
-| 11  | ❌                   |
-| 12  | ❌                   |
-| 13  | ❌                   |
-| 14  | ❌                   |
-| 15  | ❌                   |
-| 16  | ❌                   |
-| 17  | ❌                   |
-| 18  | ❌                   |
-| 19  | ❌                   |
-| 20  | ❌                   |
-| 21  | ❌                   |
-| 22  | ❌                   |
-| 23  | ❌                   |
-| 24  | ❌                   |
-| 25  | ❌                   |
-
----
 
 ## How to Use This Repository
 
@@ -124,7 +45,7 @@ cd 2024/advent-of-code
 3. Run the solution (example for Python):
 
 ```bash
-python day-01.py
+python3 day-01.py
 ```
 
 ## Solution Format
