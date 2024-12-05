@@ -59,7 +59,6 @@ class TestAll(unittest.TestCase):
     def test_is_safe_part2(self):
         with open("day-02-input.txt", "r") as f:
             reports = [list(map(int, line.split())) for line in f]
-        # 293 low
         self.assertEqual(get_safe_reports_part2(reports), 296)
 
 
